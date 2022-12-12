@@ -1,0 +1,219 @@
+body{
+	height: 2000px;
+
+}
+
+.kotak1{
+	top: 10px;
+	width: 230px;
+	height: 230px;
+	background-color: #ff00ff;
+	margin: 20px auto;
+	border-radius: 10px;
+	position: relative;
+	border: 2px solid black;
+
+}
+.kotak1 p{
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: poppins;
+	font-size: 25px;
+	position: relative;
+	margin: 0; 
+	top: 10px;
+	padding-top: 2px;
+}
+.kotak1 img{
+	width: 120px;
+	height: 140px;
+	position: relative;
+	bottom: 5px;
+	left: 40px;
+}
+
+.kotak2{
+	top: 10px;
+	width: 230px;
+	height: 230px;
+	background-color: #ff00ff;
+	margin: 20px auto;
+	border-radius: 10px;
+	position: relative;
+	border: 2px solid black;
+
+}
+.kotak2 p{
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: poppins;
+	font-size: 20px;
+	position: relative;
+	margin: 0; 
+	top: 10px;
+	padding-top: 2px;
+}
+.kotak2 img{
+	width: 120px;
+	height: 110px;
+	position: relative;
+	bottom: -10px;
+	left: 70px;
+}
+
+.kotak3{
+	top: 10px;
+	width: 230px;
+	height: 230px;
+	background-color: #ff00ff;
+	margin: 20px auto;
+	border-radius: 10px;
+	position: relative;
+	border: 2px solid black;
+
+}
+.kotak3 p{
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: poppins;
+	font-size: 20px;
+	position: relative;
+	margin: 0; 
+	top: 10px;
+	padding-top: 2px;
+}
+.kotak3 img{
+	width: 120px;
+	height: 130px;
+	position: relative;
+	bottom: -15px;
+	left: 35px;
+}
+
+.kotak4{
+	top: 10px;
+	width: 230px;
+	height: 230px;
+	background-color: #ff00ff;
+	margin: 20px auto;
+	border-radius: 10px;
+	position: relative;
+	border: 2px solid black;
+
+}
+.kotak4 p{
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: poppins;
+	font-size: 25px;
+	position: relative;
+	margin: 0; 
+	top: 10px;
+	padding-top: 2px;
+}
+.kotak4 img{
+	width: 100px;
+	height: 120px;
+	position: relative;
+	bottom: -5px;
+	left: 65px;
+}
+
+.kotak5{
+	top: 10px;
+	width: 230px;
+	height: 230px;
+	background-color: #ff00ff;
+	margin: 20px auto;
+	border-radius: 10px;
+	position: relative;
+	border: 2px solid black;
+
+}
+.kotak5 p{
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-family: poppins;
+	font-size: 20px;
+	position: relative;
+	margin: 0; 
+	top: 10px;
+	padding-top: 2px;
+}
+.kotak5 img{
+	width: 100px;
+	height: 120px;
+	position: relative;
+	bottom: 10px;
+	left: 35px;
+}
+nav{
+	margin: 0;
+	padding: 0;
+	background-color: #696969;
+	width:393px;
+	left: -12px;
+	top: -16px;
+	font-family: sans-serif;
+	position: relative;
+	display: flex;
+	justify-items: space-between;
+}
+/*marquee{
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 5px;
+	background-color: #696969;
+	margin: auto;
+	height: 40px;
+	font-size: 20px;
+	padding-top: 20px;
+	width: 380px;
+	position: relative;
+	left: -8px;
+	top: -10px;
+} 
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
